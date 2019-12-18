@@ -1,3 +1,5 @@
-# plantpapi.github.io
+# Plantpapi.me
 
-hello i am your plants father
+Original by HTML5UP
+
+Created by Sam Lazrak
